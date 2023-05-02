@@ -1,0 +1,31 @@
+#ddev-generated: Automatically generated ddev .gitignore.
+# You can remove the above line if you want to edit and maintain this file yourself.
+
+/.ddev-docker-*.yaml
+/.global_commands
+/.homeadditions
+/.importdb*
+/.*downloads
+/.*imageBuild
+/.*imageExtra
+/*-build
+
+/apache
+/commands
+/db_snapshots
+/homeadditions
+/import-db
+/mutagen
+/nginx_full
+/postgres
+/providers
+/traefik
+/xhprof
+/import.yaml
+/sequelpro.spf
+/web-entrypoint.d
+
+/config.*.yaml
+/docker-compose.*.yaml
+/deployer.phar
+/deploy
