@@ -27,3 +27,5 @@ dist
 
 components.d.ts
 unimport.d.ts
+
+.nvmrc
